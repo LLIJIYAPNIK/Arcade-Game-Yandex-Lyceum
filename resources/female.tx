@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object>
+  <properties>
+   <property name="bg" type="bool" value="false"/>
+   <property name="clothes" value="low"/>
+   <property name="hair" type="int" value="3"/>
+   <property name="skin" type="int" value="1"/>
+  </properties>
+ </object>
+</template>
